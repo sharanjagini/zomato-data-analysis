@@ -2,8 +2,6 @@
 
 This project is a comprehensive analysis of the Zomato restaurant dataset using Python. The goal is to explore the data to find meaningful insights and answer key business questions.
 
-This analysis is based on the [GeeksforGeeks Zomato Data Analysis article](https://www.geeksforgeeks.org/data-science/zomato-data-analysis-using-python/).
-
 ## Key Insights
 * **Restaurant Types:** The vast majority of restaurants fall into the "Dining" category.
 * **Online vs. Offline:** A majority of restaurants do *not* accept online orders. However, restaurants that *do* accept online orders tend to have higher ratings.
